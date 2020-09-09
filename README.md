@@ -1,2 +1,2 @@
 # CodeStorage
-a repository from the relics of my old code, might be useful someday.
+a repository for the relics of my old code, might be useful someday.
