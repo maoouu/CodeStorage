@@ -1,2 +1,2 @@
-# CodeStorage
-a repository for the relics of my old code, might be useful someday.
+# Codedump
+here is where I junk all my unrelated code files.
