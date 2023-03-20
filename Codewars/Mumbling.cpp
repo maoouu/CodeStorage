@@ -35,7 +35,7 @@ std::string accum(const std::string sample)
 int main()
 {
     // Test Sample
-    std::string sample[] = {"franku", "AllahAkbhar", "Coldzera"};
+    std::string sample[] = {"abcd", "RqaEzty", "cwAt"};
 
     // Test Iterator
     for (auto var : sample)
