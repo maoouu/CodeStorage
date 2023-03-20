@@ -6,7 +6,7 @@ public class MiddleCharacter {
     }
     
     public static void main(String[] args) {
-        String[] samples = {"Santa", "Hitler", "Germany", "Michael", "Manemjeff"};
+        String[] samples = {"Santa", "Lemons", "Germany", "Michael", "Manemjeff"};
 
         for (String elements : samples)
             System.out.println(elements + " = " + get_middle(elements));
